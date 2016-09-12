@@ -27,12 +27,12 @@ A UML class diagram for the Time class.
 
 
 #### /Java/
-##### - Run Me.bat:
- - I couldn't remember how to make a .jar open on double clicking, so I made this to open it, runs:
+- Run Me.bat:
+ > I couldn't remember how to make a .jar open on double clicking, so I made this to open it, runs:
  ` java -jar Time.jar ` in Windows.
- ##### - Tester.java:
- - Everything the program does that wasn't outlined by the Time class, such as printing, telling you to read this for an explanation on why the thing that was supposed to say 10 said 3, etc.
- ##### - Time.jar:
- - The executable .jar for this project.
- ##### - Time.java:
- - Handles time related things, outlined in the description, HW1.pdf, and Time Class Description.png
+- Tester.java:
+> Everything the program does that wasn't outlined by the Time class, such as printing, telling you to read this for an explanation on why the thing that was supposed to say 10 said 3, etc.
+ - Time.jar:
+ > The executable .jar for this project.
+- Time.java:
+> Handles time related things, outlined in the description, HW1.pdf, and Time Class Description.png
